@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 sol-grid = { path = "../sol-grid" }
+rand = "0.8.5"
